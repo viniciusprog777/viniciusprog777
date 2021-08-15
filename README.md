@@ -15,9 +15,8 @@
 
 ## - 😄 Algumas curiosidades sobre mim: 
 
-- 💻 Estou procurando emprego na área de Desenvolvimento WEB
-- 📚 Estou cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no Senai - Jandira
-- 🚀 Estou desenvolvendo um sistema educacional para o meu TCC
+- 💻 Estagiário na Alphacode
+- 📚 Técnico em Desenvolvimento de Sistemas no Senai - Jandira
 
 ## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciusprog777&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
