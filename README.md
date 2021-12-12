@@ -15,7 +15,7 @@
 
 ## - 😄 Algumas curiosidades sobre mim: 
 
-- 💻 Estagiário na Alphacode
+- 💻 Dev Full-Stack Jr na Alphacode
 - 📚 Técnico em Desenvolvimento de Sistemas no Senai - Jandira
 
 ## GITHUB
